@@ -62,7 +62,7 @@ export default function Home() {
           name="prompt"
           placeholder="Enter a prompt to display an image"
         />
-        <button className="button" type="submit">
+        <button className=" btn btn-primary" type="submit">
           Go!
         </button>
       </form>
