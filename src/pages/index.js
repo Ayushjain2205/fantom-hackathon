@@ -76,7 +76,7 @@ export default function Home() {
               <Image
                 fill
                 src={prediction.output[prediction.output.length - 1]}
-                alt="output"
+                alt="output image"
                 sizes="100vw"
               />
             </div>
